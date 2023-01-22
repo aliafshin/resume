@@ -1,0 +1,25 @@
+body{
+    background-image: url(css/pics/white-abstract-wallpaper_23-2148830026.jpg);
+    margin: 0;
+   
+   
+
+}
+.sign{
+    text-decoration: none;
+}
+#container{
+    border: 1px solid rgba(17, 12, 46, 0.15);
+    border-radius: 50px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+#head{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#banda{
+    margin-bottom: 20px;
+}
+#e-mail-laberl{
+    margin-top: 15px;
+}
